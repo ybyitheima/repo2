@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hhhh
 dddd
+=======
+hhhhhhhhhhhhhhhh
+snlsajdljsadjlajdsd
+skjsd
+>>>>>>> 7829f379e4f666057e7219c46385c88dc96022fc
